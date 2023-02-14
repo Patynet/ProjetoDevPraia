@@ -21,8 +21,11 @@ A aplicação consiste em cadastrar, listar e excluir bairros. Cadastrar, listar
 
 # Tecnologias utilizadas
 Utilização de Spring: Boot, MVC, Data
+
 Criação de API Rest
+
 Utilização de Git com GitHub
+
 Uso do banco de dados PostgreSQL
 
 ## Implantação em produção

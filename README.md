@@ -1,5 +1,5 @@
 # ProjetoDevPraia
-# Big Game Survey 
+# Controle das Praias da cidade de Florianópolis
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Patynet/ProjetoDevPraia/blob/develop/LICENCE) 
 
 # Sobre o projeto

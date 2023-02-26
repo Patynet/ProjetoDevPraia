@@ -2,6 +2,9 @@
 # Controle das Praias da cidade de Florianópolis
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Patynet/ProjetoDevPraia/blob/develop/LICENCE) 
 
+![mapa-das-praias](https://user-images.githubusercontent.com/101152820/221436131-4c053e8f-28cc-441c-ad0c-a18e1ed6c006.jpg)
+
+
 # Sobre o projeto
 
 O projeto de controle das Praias de Florianópolis é uma aplicação full stack construída durante a avaliação do primeiro módulo de uma das edições do projeto FuturoDev, evento organizado em parceria com SESI/SENAI.
